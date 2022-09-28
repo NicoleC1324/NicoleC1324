@@ -4,3 +4,6 @@
 1. I'm starting to learn about algorithms and programming 👩‍💻
 2. I like to analyze my environment and understand everything that surrounds me 🪐
 3. I am in the fifth semester of my career 👩‍🔬
+
+## Connect with me:
+https://www.instagram.com/nicani_24?r=nametag
