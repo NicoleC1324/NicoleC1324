@@ -6,4 +6,5 @@
 3. I am in the fifth semester of my career 👩‍🔬
 
 ## Connect with me:
-https://www.instagram.com/nicani_24?r=nametag
+<p align="left">
+<a href="https://www.instagram.com/nicani_24?r=nametag"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="NicoleAlvarez" height="30" width="30" /></a>
